@@ -260,7 +260,7 @@ if (isset($_SESSION['auth'])) {
 
                     <div class="page-link__img">
                         <div class="page-link__img-inner">
-                            <img src="img/Home-The-Portfolio-970x445.jpg" srcset="https://xn24qj9x5r-flywheel.netdna-ssl.com/wp-content/uploads/2018/02/Home-The-Portfolio-970x445.jpg 1x, https://xn24qj9x5r-flywheel.netdna-ssl.com/wp-content/uploads/2018/02/Home-The-Portfolio-1940x890.jpg 2x" alt="RJ Investments The Portfolio">
+                            <img src="img/Home-1.jpg" alt="RJ Investments The Portfolio">
                         </div>
                     </div>
 
@@ -282,7 +282,7 @@ if (isset($_SESSION['auth'])) {
 
                     <div class="page-link__img">
                         <div class="page-link__img-inner">
-                            <img src="img/Home-The-Projects-970x445.jpg" srcset="https://xn24qj9x5r-flywheel.netdna-ssl.com/wp-content/uploads/2018/02/Home-The-Projects-970x445.jpg 1x, https://xn24qj9x5r-flywheel.netdna-ssl.com/wp-content/uploads/2018/02/Home-The-Projects-1940x890.jpg 2x" alt="RJ Investments">
+                            <img src="img/Home-2.jpg" alt="RJ Investments">
                         </div>
                     </div>
 
@@ -304,7 +304,7 @@ if (isset($_SESSION['auth'])) {
 
                     <div class="page-link__img">
                         <div class="page-link__img-inner">
-                            <img src="img/Home-The-Property-Avatar-970x445.jpg" srcset="https://xn24qj9x5r-flywheel.netdna-ssl.com/wp-content/uploads/2018/02/Home-The-Property-Avatar-970x445.jpg 1x, https://xn24qj9x5r-flywheel.netdna-ssl.com/wp-content/uploads/2018/02/Home-The-Property-Avatar-1940x890.jpg 2x" alt="RJ Investments The Property Avatar">
+                            <img src="img/Home-3.jpg" alt="RJ Investments The Property Avatar">
                         </div>
                     </div>
 

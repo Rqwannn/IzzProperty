@@ -300,7 +300,7 @@ $getAllData = mysqli_query($conn, "SELECT * FROM inforumah WHERE kota = '$lokasi
     </section>
 
     <section class="property__full-img">
-        <img width="2000" height="650" src="https://xn24qj9x5r-flywheel.netdna-ssl.com/wp-content/uploads/2018/02/Pandora.jpg" class="attachment-Property Banner size-Property Banner wp-post-image" alt="The Pandora" loading="lazy" srcset="https://xn24qj9x5r-flywheel.netdna-ssl.com/wp-content/uploads/2018/02/Pandora.jpg 2000w, https://xn24qj9x5r-flywheel.netdna-ssl.com/wp-content/uploads/2018/02/Pandora-300x98.jpg 300w, https://xn24qj9x5r-flywheel.netdna-ssl.com/wp-content/uploads/2018/02/Pandora-768x250.jpg 768w, https://xn24qj9x5r-flywheel.netdna-ssl.com/wp-content/uploads/2018/02/Pandora-1024x333.jpg 1024w, https://xn24qj9x5r-flywheel.netdna-ssl.com/wp-content/uploads/2018/02/Pandora-720x234.jpg 720w" sizes="(max-width: 2000px) 100vw, 2000px" />
+        <img width="2000" height="650" src="https://xn24qj9x5r-flywheel.netdna-ssl.com/wp-content/uploads/2018/02/Pandora.jpg" class="attachment-Property Banner size-Property Banner wp-post-image" alt="The Pandora" loading="lazy" sizes="(max-width: 2000px) 100vw, 2000px" />
     </section>
 
     <section class="location property__location spacing-medium bg-dark" id="location">
@@ -352,7 +352,7 @@ $getAllData = mysqli_query($conn, "SELECT * FROM inforumah WHERE kota = '$lokasi
             <div class="property__content grid">
                 <div class="grid__col grid__col--5 grid__col--tb2-4 grid__col--m-12">
                     <div class="property__content-img">
-                        <img class="img-full" src="https://xn24qj9x5r-flywheel.netdna-ssl.com/wp-content/uploads/2018/02/Introduction-1-458x458.jpg" srcset="https://xn24qj9x5r-flywheel.netdna-ssl.com/wp-content/uploads/2018/02/Introduction-1-458x458.jpg 1x, https://xn24qj9x5r-flywheel.netdna-ssl.com/wp-content/uploads/2018/02/Introduction-1-916x916.jpg 2x" alt="RJ Investments">
+                        <img class="img-full" src="https://xn24qj9x5r-flywheel.netdna-ssl.com/wp-content/uploads/2018/02/Introduction-1-458x458.jpg" alt="RJ Investments">
                     </div>
                 </div>
 
@@ -403,7 +403,7 @@ $getAllData = mysqli_query($conn, "SELECT * FROM inforumah WHERE kota = '$lokasi
             <div class="property__content grid">
                 <div class="grid__col grid__col--5 grid__col--tb2-4 grid__col--m-12">
                     <div class="property__content-img">
-                        <img class="img-full" src="https://xn24qj9x5r-flywheel.netdna-ssl.com/wp-content/uploads/2018/02/Property-Key-Info.jpg" srcset="https://xn24qj9x5r-flywheel.netdna-ssl.com/wp-content/uploads/2018/02/Property-Key-Info.jpg 1x, https://xn24qj9x5r-flywheel.netdna-ssl.com/wp-content/uploads/2018/02/Property-Key-Info-916x916.jpg 2x" alt="">
+                        <img class="img-full" src="https://xn24qj9x5r-flywheel.netdna-ssl.com/wp-content/uploads/2018/02/Property-Key-Info.jpg" alt="">
                     </div>
                 </div>
 
